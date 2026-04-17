@@ -1,0 +1,10 @@
+# Python-generated files
+__pycache__/
+.venv/
+.env
+
+# Vector Database (Do not share)
+db/
+
+# Data (Optional: ignore if the PDF is too large)
+data/

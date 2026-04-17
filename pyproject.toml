@@ -1,9 +1,9 @@
 [project]
-name = "esta-code-agent"
+name = "estacode-chatbot"
 version = "0.1.0"
-description = "Add your description here"
+description = "This is a Chatbot that let the user query the Estacode—a comprehensive set of laws, rules, and instructions regarding the terms and conditions for government civil servants in Pakistan."
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12, <3.13"
 dependencies = [
     "faiss-cpu>=1.13.2",
     "ipykernel>=7.2.0",

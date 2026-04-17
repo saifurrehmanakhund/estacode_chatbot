@@ -8,3 +8,7 @@ db/
 
 # Data (Optional: ignore if the PDF is too large)
 data/
+
+# notebook
+notebooks/
+.ipynb
